@@ -1,53 +1,48 @@
-![Gregorio Devey, estudiante de programación y creador de NovaLabs. Proyectos web y aplicaciones en desarrollo.](assets/profile-banner.svg)
+![Gregorio Devey, estudiante de programación y desarrollador en formación.](assets/profile-banner.svg)
 
 ## Hola, soy Gregorio
 
-Soy **Gregorio Devey**, estudiante de programación y desarrollador en formación. Aprendo construyendo proyectos personales: desde interfaces web hasta aplicaciones para organizar tareas y finanzas.
+Soy **Gregorio Devey**, estudiante de programación y desarrollador en formación. Estoy construyendo mi camino en el desarrollo de software, combinando lo que estudio con ejercicios y proyectos personales.
 
-Creé **NovaLabs** para reunir ese trabajo, mostrar lo que voy desarrollando y documentar su evolución. Me interesa seguir aprendiendo y dar mis primeros pasos profesionales en programación.
+En este perfil comparto las tecnologías que estoy usando, lo que voy aprendiendo y los avances de mis proyectos. **Busco dar mis primeros pasos profesionales en programación** y seguir desarrollando mis conocimientos con la práctica.
 
-[Conocé NovaLabs](https://github.com/gregoriodevey99-oss/NovaLabs-Portfolio) · [LinkedIn](https://www.linkedin.com/in/gregorio-devey/)
-
-## NovaLabs · Mis proyectos
-
-**NovaLabs es el proyecto principal.** Cada producto tiene su propia idea, sus tecnologías y un estado de desarrollo visible.
-
-| Proyecto | Qué estoy construyendo | Estado |
-| --- | --- | --- |
-| **[NovaLabs Portfolio](https://github.com/gregoriodevey99-oss/NovaLabs-Portfolio)** | El sitio que presenta el ecosistema, con Python, Flask, HTML, CSS y JavaScript. | Código público y guía para ejecutarlo localmente. |
-| **[NovaFinance](https://github.com/gregoriodevey99-oss/NovaLabs-Portfolio/blob/main/docs/novafinance.md)** | Aplicaciones de finanzas personales para Windows y celular. | Windows funcional de manera local. Móvil en desarrollo, probado con datos de demostración en Expo Go. |
-| **NovaShop** | Catálogo, búsqueda, carrito y simulación de pedido. | Demostración incluida en NovaLabs Portfolio. |
-| **NovaCore** | Inventario con altas, búsqueda y ajuste de stock. | Demostración con almacenamiento en el navegador. |
-| **Nova AI · ADAM** | Un recorrido de asistente con opciones y respuestas predefinidas. | Demostración de interfaz; no está conectada a un modelo de IA. |
-
-### En foco: NovaFinance
-
-Estoy trabajando en una misma idea desde dos entornos:
-
-- **Windows:** Python, Flask y SQLite, con funcionamiento local.
-- **Móvil:** React Native y Expo, con secciones de inicio, movimientos, presupuesto y metas, además de modos claro y oscuro.
-- **Próximos objetivos:** publicación en la nube, sincronización entre versiones y distribución de una aplicación móvil instalable.
-
-La versión móvil usa datos de demostración. La publicación y la sincronización forman parte del trabajo pendiente.
-
-## Tecnologías que uso en mis proyectos
+## Tecnologías que estoy usando
 
 | Área | Tecnologías y herramientas |
 | --- | --- |
-| Desarrollo web | Python · Flask · HTML · CSS · JavaScript |
-| Datos locales | SQLite, en NovaFinance para Windows |
-| Desarrollo móvil | React Native · Expo, en NovaFinance Móvil |
-| Organización del trabajo | Git · GitHub · Visual Studio Code |
+| Programación y desarrollo web | Python · Flask |
+| Interfaces web | HTML · CSS · JavaScript |
+| Datos locales | SQLite |
+| Desarrollo móvil | React Native · Expo |
+| Herramientas de trabajo | Git · GitHub · Visual Studio Code |
 
-## Lo que estoy practicando
+Las aplico en proyectos de distinto alcance, desde páginas web y demostraciones interactivas hasta una aplicación local y un prototipo móvil. Sigo aprendiendo a conectar esas partes y a entender mejor cómo funcionan.
 
-- Organizar el código en archivos con responsabilidades claras.
-- Diseñar interfaces legibles y adaptables a distintos tamaños de pantalla.
-- Construir interacciones y conectar las distintas partes de una aplicación.
-- Explicar qué hace cada proyecto, cómo probarlo y qué queda por mejorar.
+## Lo que estoy aprendiendo
+
+- **Organizar el código:** dividir un programa en archivos y dar una responsabilidad clara a cada parte.
+- **Construir interfaces:** trabajar con navegación, formularios y diseños adaptables a computadoras y celulares.
+- **Manejar información:** practicar con datos locales y entender cómo se usan dentro de una aplicación.
+- **Documentar el trabajo:** explicar qué hace un proyecto, cómo iniciarlo y qué queda por mejorar.
+
+Me apoyo en estos proyectos para llevar la teoría a la práctica, revisar errores y seguir avanzando paso a paso.
+
+## Algunos de mis proyectos
+
+### [NovaLabs Portfolio](https://github.com/gregoriodevey99-oss/NovaLabs-Portfolio)
+
+Un sitio personal hecho con Python, Flask, HTML, CSS y JavaScript. El repositorio incluye instrucciones para ejecutarlo localmente y demostraciones de una tienda (**NovaShop**), un inventario (**NovaCore**) y un recorrido de asistente (**ADAM**).
+
+Estas demostraciones usan datos de ejemplo; ADAM trabaja con respuestas predefinidas, sin conexión a un modelo de IA.
+
+### [NovaFinance](https://github.com/gregoriodevey99-oss/NovaLabs-Portfolio/blob/main/docs/novafinance.md)
+
+Un proyecto de finanzas personales dentro de NovaLabs. La versión para **Windows funciona localmente con Python, Flask y SQLite**. La versión **móvil usa React Native y Expo** y fue probada con datos de demostración en Expo Go.
+
+La publicación en la nube, la sincronización entre versiones y la distribución de una aplicación móvil instalable siguen pendientes.
 
 ## Conectemos
 
 [LinkedIn](https://www.linkedin.com/in/gregorio-devey/) · [Mis repositorios públicos](https://github.com/gregoriodevey99-oss?tab=repositories)
 
-Gracias por pasar y conocer mi trabajo.
+Gracias por conocer mi trabajo y acompañar mi aprendizaje.

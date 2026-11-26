@@ -1,52 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Gregorio Devey · NovaLabs</title>
-  <desc id="desc">Presentación de Gregorio Devey, estudiante de programación y creador de NovaLabs. Fondo azul y violeta con NovaFinance destacado en verde.</desc>
+  <title id="title">Gregorio Devey · Mi camino en programación</title>
+  <desc id="desc">Banner personal de Gregorio Devey, estudiante de programación. Desarrollo web y aplicaciones. Fondo azul y violeta, iniciales GD y detalles de código.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111c42"/>
       <stop offset="0.55" stop-color="#172354"/>
       <stop offset="1" stop-color="#28204b"/>
     </linearGradient>
-    <linearGradient id="accent" x1="50" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#72a7ff"/>
-      <stop offset="0.65" stop-color="#a699ff"/>
-      <stop offset="1" stop-color="#68e4b3"/>
+      <stop offset="0.62" stop-color="#8fa7ff"/>
+      <stop offset="1" stop-color="#b9a0ff"/>
+    </linearGradient>
+    <linearGradient id="card" x1="858" y1="65" x2="1110" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#243b70"/>
+      <stop offset="1" stop-color="#252650"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="360" rx="24" fill="url(#background)"/>
   <path d="M24 0H1176Q1200 0 1200 24V6H0V24Q0 0 24 0Z" fill="url(#accent)"/>
-  <g fill="none" stroke="#8da8ee" stroke-opacity="0.13">
-    <circle cx="1060" cy="180" r="245"/>
-    <circle cx="1060" cy="180" r="183"/>
-    <circle cx="1060" cy="180" r="121"/>
+  <g fill="none" stroke="#9aaef1" stroke-opacity="0.12">
+    <circle cx="1040" cy="180" r="247"/>
+    <circle cx="1040" cy="180" r="185"/>
+    <circle cx="1040" cy="180" r="123"/>
   </g>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="58" y="67" fill="#b5caff" font-size="16" font-weight="700" letter-spacing="3">PORTFOLIO DE DESARROLLO</text>
+    <text x="58" y="66" fill="#b5caff" font-size="16" font-weight="700" letter-spacing="3">MI CAMINO EN PROGRAMACIÓN</text>
     <text x="54" y="148" fill="#ffffff" font-size="65" font-weight="700" letter-spacing="-2">Gregorio Devey</text>
-    <text x="58" y="195" fill="#e0e7ff" font-size="25">Estudiante de programación</text>
-    <text x="58" y="230" fill="#e0e7ff" font-size="25">Creador de NovaLabs</text>
+    <text x="58" y="196" fill="#e0e7ff" font-size="25">Estudiante de programación</text>
+    <text x="58" y="232" fill="#c4d0ee" font-size="24">Desarrollo web y aplicaciones</text>
     <rect x="58" y="273" width="370" height="39" rx="19.5" fill="#243a6b" stroke="#6b8cd1" stroke-opacity="0.45"/>
     <text x="80" y="298" fill="#edf3ff" font-size="17">Aprender. Construir. Seguir mejorando.</text>
-    <g transform="translate(832 69)">
-      <rect width="310" height="104" rx="20" fill="#1d3567" stroke="#759fff" stroke-opacity="0.6"/>
-      <rect x="22" y="23" width="52" height="52" rx="14" fill="#020e1e"/>
-      <svg x="29" y="28" width="38" height="42" viewBox="0 0 52 58" aria-hidden="true">
-        <path d="m8 19 18-17 18 17" fill="none" stroke="#00d6f3" stroke-width="4.5"/>
-        <path d="m6 29 20-20 20 20-20 25Z" fill="none" stroke="#087dff" stroke-width="5"/>
-        <path d="m16 29 10-10 10 10-10 10Z" fill="none" stroke="#00d6f3" stroke-width="4"/>
-        <path d="m4 29 5-5m34 10 5-5" stroke="#020e1e" stroke-width="5"/>
-      </svg>
-      <text x="92" y="46" fill="#ffffff" font-size="27" font-weight="700">NovaLabs</text>
-      <text x="92" y="73" fill="#c3d5ff" font-size="16">Proyecto principal</text>
-      <path d="M49 105V135H77" stroke="#8db4fa" stroke-width="2" fill="none"/>
-      <rect x="77" y="108" width="233" height="100" rx="18" fill="#123c39" stroke="#65d6a9" stroke-opacity="0.7"/>
-      <g fill="none" stroke="#76ecc0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <path d="M95 134v-2a2 2 0 0 1 2-2h11v4"/>
-        <rect x="94" y="134" width="16" height="13" rx="2"/>
-        <path d="M110 138h-6v5h6M107 140.5h.01"/>
+    <g>
+      <rect x="866" y="71" width="246" height="226" rx="24" fill="#0c1736" fill-opacity="0.38" transform="rotate(7 989 184)"/>
+      <rect x="848" y="59" width="268" height="242" rx="24" fill="url(#card)" stroke="#819ee4" stroke-opacity="0.48"/>
+      <path d="M848 106H1116" stroke="#819ee4" stroke-opacity="0.22"/>
+      <g fill="#9bbaff">
+        <circle cx="872" cy="83" r="4"/>
+        <circle cx="888" cy="83" r="4" opacity="0.6"/>
+        <circle cx="904" cy="83" r="4" opacity="0.35"/>
       </g>
-      <text x="117" y="148" fill="#c9ffeb" font-size="23" font-weight="700">NovaFinance</text>
-      <text x="99" y="178" fill="#b6e6d5" font-size="16">Finanzas personales</text>
+      <text x="1088" y="88" text-anchor="end" fill="#a9bde8" font-family="monospace" font-size="15">&lt;/&gt;</text>
+      <text x="982" y="207" text-anchor="middle" fill="#f2f5ff" font-size="84" font-weight="700" letter-spacing="-5">GD</text>
+      <path d="m889 160-14 14 14 14m186-28 14 14-14 14" fill="none" stroke="#92b9ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+      <path d="M925 236H1039" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+      <text x="982" y="272" text-anchor="middle" fill="#c8d6f4" font-size="14" letter-spacing="2.4">IDEAS EN CÓDIGO</text>
     </g>
   </g>
 </svg>
